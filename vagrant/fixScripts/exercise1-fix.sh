@@ -1,2 +1,2 @@
 #!/bin/bash
-#add fix to exercise1 here
+route delete www.textfiles.com
